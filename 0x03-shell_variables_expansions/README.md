@@ -1,1 +1,1 @@
-8-true_knowledge
+Divide and rule
