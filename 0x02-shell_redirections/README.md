@@ -1,1 +1,1 @@
-It must be in that file
+script that creates an alias
